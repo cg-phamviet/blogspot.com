@@ -1,0 +1,41 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink"  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 585" preserveAspectRatio="xMidYMid" width="1280" height="585" style="shape-rendering: auto; display: block; background: rgb(255, 255, 255);"><g data-idx="1"><defs data-idx="2">
+  <linearGradient y2="0" y1="0" x2="1" x1="0" id="lg-0" data-idx="3">
+  <stop offset="0.25" stop-color="#e15c64" data-idx="4"></stop>
+  <stop offset="0.75" stop-color="#f7b26a" data-idx="5"></stop>
+  </linearGradient>
+</defs>
+<path stroke="none" fill="url(#lg-0)" d="M 0 -87.75 C 390.431 87.75 889.569 -263.25 1280 -87.75 L 1280 216.45 C 1529.57 40.95 -249.569 391.95 0 216.45 Z" data-idx="6">
+ 
+</path><defs data-idx="8">
+  <linearGradient y2="0" y1="0" x2="1" x1="0" id="lg-1" data-idx="9">
+  <stop offset="0.25" stop-color="#f3ed9d" data-idx="10"></stop>
+  <stop offset="0.75" stop-color="#f7b26a" data-idx="11"></stop>
+  </linearGradient>
+</defs>
+<path stroke="none" fill="url(#lg-1)" d="M 0 64.35 C 407.527 239.85 872.474 -111.15 1280 64.35 L 1280 368.55 C 1512.47 193.05 -232.474 544.05 0 368.55 Z" data-idx="12">
+ 
+</path><defs data-idx="14">
+  <linearGradient y2="0" y1="0" x2="1" x1="0" id="lg-2" data-idx="15">
+  <stop offset="0.25" stop-color="#f3ed9d" data-idx="16"></stop>
+  <stop offset="0.75" stop-color="#a4bd81" data-idx="17"></stop>
+  </linearGradient>
+</defs>
+<path stroke="none" fill="url(#lg-2)" d="M 0 216.45 C 208.952 391.95 1071.05 40.95 1280 216.45 L 1280 520.65 C 1711.05 345.15 -431.048 696.15 0 520.65 Z" data-idx="18">
+ 
+</path><defs data-idx="20">
+  <linearGradient y2="0" y1="0" x2="1" x1="0" id="lg-3" data-idx="21">
+  <stop offset="0.25" stop-color="#a0d7d2" data-idx="22"></stop>
+  <stop offset="0.75" stop-color="#a4bd81" data-idx="23"></stop>
+  </linearGradient>
+</defs>
+<path stroke="none" fill="url(#lg-3)" d="M 0 368.55 C 306.02 544.05 973.98 193.05 1280 368.55 L 1280 672.75 C 1613.98 497.25 -333.98 848.25 0 672.75 Z" data-idx="24">
+ 
+</path><defs data-idx="26">
+  <linearGradient y2="0" y1="0" x2="1" x1="0" id="lg-4" data-idx="27">
+  <stop offset="0.25" stop-color="#a0d7d2" data-idx="28"></stop>
+  <stop offset="0.75" stop-color="#8db1da" data-idx="29"></stop>
+  </linearGradient>
+</defs>
+<path stroke="none" fill="url(#lg-4)" d="M 0 520.65 C 435.37 696.15 844.63 345.15 1280 520.65 L 1280 824.85 C 1484.63 649.35 -204.63 1000.35 0 824.85 Z" data-idx="30">
+ 
+</path><g data-idx="32"></g></g><text data-watermark="true" text-anchor="middle" dominant-baseline="middle" stroke-opacity="0.1" fill="black" fill-opacity="0.1" stroke="white" stroke-width="1" font-size="15.0" x="640.0" y="292.5" data-idx="33" style="opacity: 1; font-size: 15px;">LOADING.IO</text></svg>
